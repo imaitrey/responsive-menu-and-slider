@@ -1,0 +1,16 @@
+How To use Slick Slider using CDN Links
+
+1. Go to https://cdnjs.com/ 
+
+2. In search bar type > Slick
+
+3. Click on slick 
+
+4. Click on slick-carousel
+
+5. Copy Slick.min.js from Link (version: 1.8.1) and paste above </body> tag
+
+6. Select Styling from Asset type dropdown
+
+7. Copy slick-theme.min.css & slick.min.css from Link (version: 1.8.1) and paste in <head> tag
+
